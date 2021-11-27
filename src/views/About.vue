@@ -1,5 +1,4 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <h1>Version 1.0.0</h1>
+  <router-link to="/">Go back to Home</router-link>
 </template>
